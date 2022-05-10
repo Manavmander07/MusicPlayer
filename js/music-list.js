@@ -3,8 +3,8 @@ let allMusic = [
   {
     name: "Adore",
     artist: "Amrinder Gill",
-    img: "Adore",
-    src: "Adore"
+    img: "adore",
+    src: "adore"
   },
   {
     name: "Chal Jindiye",
